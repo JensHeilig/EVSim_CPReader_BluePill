@@ -57,10 +57,6 @@ void Error_Handler(void);
 /* USER CODE END EFP */
 
 /* Private defines -----------------------------------------------------------*/
-#define CP_AnaIn_Pin GPIO_PIN_1
-#define CP_AnaIn_GPIO_Port GPIOA
-#define CP_PWM_in_Pin GPIO_PIN_3
-#define CP_PWM_in_GPIO_Port GPIOB
 
 /* USER CODE BEGIN Private defines */
 
